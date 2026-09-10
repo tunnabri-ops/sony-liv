@@ -1,0 +1,31 @@
+name: Auto Update Playlist
+
+on:
+  schedule:
+    # প্রতি ৫ মিনিট পর পর স্বয়ংক্রিয়ভাবে চলবে
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download files from SonyLiv and Tapmad
+        run: |
+          # SonyLiv রিপোজিটরি থেকে ডাউনলোড
+          curl -sL "https://raw.githubusercontent.com/srhady/SonyLiv/main/sonyliv.m3u" -o sonyliv.m3u
+          curl -sL "https://raw.githubusercontent.com/srhady/SonyLiv/main/sonyliv.json" -o sonyliv.json
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff-index --quiet HEAD || (git commit -m "Auto update: $(date)" && git push)
