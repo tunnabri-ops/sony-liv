@@ -1,8 +1,7 @@
-name: Auto Update Playlist
+name: Auto Update SonyLiv
 
 on:
   schedule:
-    # প্রতি ৫ মিনিট পর পর স্বয়ংক্রিয়ভাবে চলবে
     - cron: '*/5 * * * *'
   workflow_dispatch:
 
@@ -17,15 +16,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Download files from SonyLiv and Tapmad
+      - name: Download latest files (No Cache)
         run: |
-          # SonyLiv রিপোজিটরি থেকে ডাউনলোড
-          curl -sL "https://raw.githubusercontent.com/srhady/SonyLiv/main/sonyliv.m3u" -o sonyliv.m3u
-          curl -sL "https://raw.githubusercontent.com/srhady/SonyLiv/main/sonyliv.json" -o sonyliv.json
+          TIMESTAMP=$(date +%s)
+          # SonyLiv ফাইল ডাউনলোড
+          curl -H "Cache-Control: no-cache" -sL "https://raw.githubusercontent.com/srhady/SonyLiv/main/sonyliv.m3u?t=${TIMESTAMP}" -o sonyliv.m3u
+          curl -H "Cache-Control: no-cache" -sL "https://raw.githubusercontent.com/srhady/SonyLiv/main/sonyliv.json?t=${TIMESTAMP}" -o sonyliv.json
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          git diff-index --quiet HEAD || (git commit -m "Auto update: $(date)" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update SonyLiv: $(date)" && git push origin main)
