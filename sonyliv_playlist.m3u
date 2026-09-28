@@ -2,28 +2,19 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:50:30 PM 28-09-2026
+# last_update: 12:50:31 AM 29-09-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025038/1790325177849163_athletics_live_india_in_action_landscape_thumb.jpg" group-title="Athletics", India In Action - Athletics - 28 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/master.m3u8?hdnea=exp=1790599834~acl=/*~id=06235574132159815601145124041233~hmac=157ee460105beecc54096ca81200610e06ebfaf9465756601fffe5e71972176e
+#EXTINF:-1 tvg-id="sonyliv-1090545177" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790035516907628_UNL2627_Belgium_vs_France_landscape_thumb.jpg" group-title="Football", Belgium vs France - 29 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive2809/ENG/master.m3u8?hdnea=exp=1790662856~acl=/*~id=22014688582705949546215953965352~hmac=510333c05544b5ec3f5ceefe51e9e3a4592baad8465c8ae3a81cda7e6a6e5a59
 
-#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025053/1790507716280859_athletics_live_india_in_action_landscape_thumb_multi.jpg" group-title="Athletics", India In Action - Athletics - 28 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/ag_strea2809/HIN/master.m3u8?hdnea=exp=1790628641~acl=/*~id=54742727601384494536787917435496~hmac=a5558bec34f749a35c30bd23ce7206f633307f98fda84b057798a6aef7961179
+#EXTINF:-1 tvg-id="sonyliv-1090545178" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790035683567813_UNL2627_Turkiye_vs_Italy_landscape_thumb.jpg" group-title="Football", Türkiye vs Italy - 29 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive2809/ENG/master.m3u8?hdnea=exp=1790662870~acl=/*~id=33580144775567217679888563389258~hmac=315d87686f9fd6b770df1a7213ccfe6f5dea30f9113b94070a09b5c4372bff3a
 
-#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025111/1790548484069263_AG26_28Sep_Hockey_Mens_India_vs_Bangladesh_live_landscape_thumb.jpg" group-title="Hockey", India vs Bangladesh - Men - Hockey - 28 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2005444/ag_dx2_22709/ENG/master.m3u8?hdnea=exp=1790637630~acl=/*~id=61863240754968183258135919066226~hmac=a11ff170805a7e7aefa440e66930537ddb28923bb8bf6713380cba8228b5cc2e
+#EXTINF:-1 tvg-id="sonyliv-1090545175" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790035158217813_UNL2627_Sweden_vs_Poland_landscape_thumb.jpg" group-title="Football", Sweden vs Poland - 29 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2809/ENG/master.m3u8?hdnea=exp=1790662856~acl=/*~id=22014688582705949546215953965352~hmac=510333c05544b5ec3f5ceefe51e9e3a4592baad8465c8ae3a81cda7e6a6e5a59
 
-#EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg" group-title="Athletics", Athletics - 28 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds1_2709/ENG/master.m3u8?hdnea=exp=1790599852~acl=/*~id=64864188041744029923084436429194~hmac=478ed979e4c7f5d1a03dfd675d81856622e31f3ae500bb01455e548f6e42029e
+#EXTINF:-1 tvg-id="sonyliv-1090545176" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790035361465813_UNL2627_Northern_Ireland_vs_Hungary_landscape_thumb.jpg" group-title="Football", Northern Ireland vs Hungary - 29 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive2809/ENG/master.m3u8?hdnea=exp=1790662885~acl=/*~id=57050115264436775756505463585966~hmac=b211a83627bd91064c34f71a38fced43a91e3a71629eaec8a863bc9b34f98a83
 
-#EXTINF:-1 tvg-id="sonyliv-1090541387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541387/thumbnail/1790589618301_1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Volleyball", Chinese Taipei vs Korea - Men - Volleyball - 28 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2094589/ag_dx6_22709/ENG/master.m3u8?hdnea=exp=1790599852~acl=/*~id=64864188041744029923084436429194~hmac=478ed979e4c7f5d1a03dfd675d81856622e31f3ae500bb01455e548f6e42029e
-
-#EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg" group-title="Athletics", Athletics - 28 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022319/ag_dx4_22709/ENG/master.m3u8?hdnea=exp=1790639434~acl=/*~id=01079861290062040213759107468445~hmac=851ba5d3aade0fae4753e5d4fdd8967cba77f2337cb3a77cc3ad086c1f94d7e7
-
-#EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" group-title="Table Tennis", Table Tennis - 28 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022316/ag_mds2_2709/ENG/master.m3u8?hdnea=exp=1790599883~acl=/*~id=15997905684868562848308481139703~hmac=b36fef59d4db6ca2bb49d8f2bdc0088e53ada7eab2fb48d3bf9a2d859a2d71a4
-
-#EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Volleyball", Volleyball - 28 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2037139/ag_mds4_2709/ENG/master.m3u8?hdnea=exp=1790637640~acl=/*~id=84356695617493791616609665452114~hmac=f32f82622c7e9ce9b240c8283460939be75843af74773c8dbdc8f387ca6db133
+#EXTINF:-1 tvg-id="sonyliv-1090545174" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790034970629813_UNL2627_Romania_vs_Bosnia_and_Herzegovina_landscape_thumb.jpg" group-title="Football", Romania vs Bosnia & Herzegovina - 29 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2809/ENG/master.m3u8?hdnea=exp=1790662893~acl=/*~id=21805643776543711435395635779953~hmac=6fa0619f014afe187b480c787f47f39973c722c107a7a5a9ec2f6676dbf0f72c
