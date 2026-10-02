@@ -3,26 +3,17 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:50:35 PM 02-10-2026"
+        "last_update": "03:20:29 AM 03-10-2026"
     },
     "live_matches": [
         {
-            "match_id": "1090546408",
-            "title": "Latvia vs Montenegro - 2 Oct 2026",
-            "tournament": "UEFA Nations League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive0210/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025381/1790742085086668_UNL2627_Latvia_vs_MonTenegro_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790999442~acl=/*~id=71241835114395652851607175180036~hmac=d77447883b98add56f8c3fe36e4d2a85ea5e164ea27e5d36981de8e41d06383f",
-            "token_updated": 1790963432
-        },
-        {
-            "match_id": "1090546411",
-            "title": "Cyprus vs Armenia - 2 Oct 2026",
-            "tournament": "UEFA Nations League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive0210/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790744934581683_UNL2627_Cyprus_vs_Armenia_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790999468~acl=/*~id=99738528497797379785684814301713~hmac=37b7557a2ca83ebffce67515d34ccab36617f63b15934a3de256c6d5df58e4e1",
-            "token_updated": 1790963432
+            "match_id": "1090541370",
+            "title": "Golf - 3 Oct 2026",
+            "tournament": "20th Asian Games Aichi-Nagoya 2026",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_mds4_0210/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297941567348_AG26_Golf_pictogram_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1791017438~acl=/*~id=22996757667710002841757752074188~hmac=8a6ccbf86c352cbbe8cfc73355fb54ea8d4d2d6858d0c089ef590f2020cbdd16",
+            "token_updated": 1790976027
         }
     ]
 }
