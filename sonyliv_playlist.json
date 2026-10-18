@@ -3,17 +3,26 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "03:50:27 PM 18-10-2026"
+        "last_update": "07:20:24 PM 18-10-2026"
     },
     "live_matches": [
         {
-            "match_id": "1090548740",
-            "title": "DP World India Championship - Day 4 - 18 Oct 2026",
-            "tournament": "DP World Tour",
-            "base_url": "https://livecfdai-par-mp.slivcdn.com/out/v1/cfed49dc0449444bac761f9dd9155916/std_lrh-800300010.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046074732742_DP-World_India-Championship_Day4_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1792344036~acl=/*~id=35126441904256873407329726820446~hmac=6614df1da79190db9dd58e88ff1559e3775929ab045a414b6f7814945b7ad301",
-            "token_updated": 1792317023
+            "match_id": "1090549112",
+            "title": "Churchill Brothers SC vs East Bengal FC - 18 Oct 2026",
+            "tournament": "MG Indian Super League 2026-27",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792157806465755_ISL26_Churchill-Brothers-SC-vs-East-Bengal-FC_live_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1792363835~acl=/*~id=31030325418032356700331035016574~hmac=3d73c575041b5024ae7a9f946d621caf44fbe733d408fb5c5802ecb389c7c8bc",
+            "token_updated": 1792329621
+        },
+        {
+            "match_id": "1090548741",
+            "title": "Emperia Marathas vs Tamil Titans - Super 6 - 18 Oct 2026 ",
+            "tournament": "Volleyball Championship League 2026 ",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Volleyba1810/ENG/std_lrh-800300010.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130666267133_VCL26_Emperia-Marathas-v-Tamil-Titans_live_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1792371036~acl=/*~id=59082873898045085632344253057951~hmac=b08bbbb9edc85d3508233d422cbdb1452c1dcecb548b1c4d025de512f5b06f5e",
+            "token_updated": 1792329621
         }
     ]
 }
