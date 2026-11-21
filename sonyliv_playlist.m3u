@@ -2,7 +2,11 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:50:32 AM 21-11-2026
+# last_update: 06:20:27 PM 21-11-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090555325" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg" group-title="Cricket", 1st Test - Day 3 | India Tour of New Zealand 2026 [English]
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795256449~acl=/*~id=23774108095885234202984716157965~hmac=9d981f66eeadcadcb49e68ddc3656e6d86c540e0c6f4e8a34a98eb5a4611933f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029335/1794702022000862_ISL26_Chennaiyin_fC_vs_Punjab_FC_landscape_thumb.jpg" group-title="Live Sports",Chennaiyin FC vs Punjab FC - MG Indian Super League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2111/ENG/master.m3u8?hdnea=exp=1795313555~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=a44676f6a2dae3c28c9a9802aa527db98a5a04aed432d4d0ec0da91c936e8381
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029479/1795171533377724_AsiaCup_RisingStar_SRI-A_vs_HKC_Live_landscape_thumb.jpg" group-title="Live Sports",Sri Lanka A vs Hong Kong - China - ACC Men's Asia Cup Rising Stars 2026
+https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2111/ENG/master.m3u8?hdnea=exp=1795306756~acl=/*~id=90562635393194968322586110338398~hmac=7796239d22578e037be8fb59fe89baee9fd2172e65230388b4f22bf24abd141a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029480/1795172675588333_AsiaCup_RisingStar_BAN-vs-AFG_Live_landscape_thumb.jpg" group-title="Live Sports",Bangladesh A vs Afghanistan A - ACC Men's Asia Cup Rising Stars 2026
+https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2111/ENG/master.m3u8?hdnea=exp=1795306756~acl=/*~id=90562635393194968322586110338398~hmac=7796239d22578e037be8fb59fe89baee9fd2172e65230388b4f22bf24abd141a
